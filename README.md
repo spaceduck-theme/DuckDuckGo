@@ -31,6 +31,14 @@ Do _**one**_ of the following:
 2. (Less permanently) Try it out by visiting [the following: DuckDuckGo - Spaceduck theme settings](https://duckduckgo.com/?kae=t&kbc=1&kax=v273-5&k8=ecf0c1&k21=16172d&k7=0f111b&k9=5ccc96&kaa=7a5ccc&kx=f2ce00&kj=0f111b)
     * Note: This will not be persisted, and if you wish to have it so, you must do additional steps to either save this as your settings, or start as your home page/etc.
 
+## Team
+
+This theme is maintained by the following person(s) in addition to being helped by a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+
+| [![bigpick](https://avatars1.githubusercontent.com/u/9803299?v=4&s=70)](https://github.com/bigpick) |
+| --- |
+| [bigpick](https://github.com/bigpick) |
+
 ## License
 
 [MIT License](./LICENSE)
